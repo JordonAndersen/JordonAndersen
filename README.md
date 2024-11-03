@@ -37,7 +37,7 @@ I enjoy building interactive applications and games. I am also experienced in sy
 * **Linkedin:** www.linkedin.com/in/jordon-andersen-b52528145
 
 **Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.**
-
-* **Linkedin:** https://github.com/JordonAndersen/2dPokemon
+I am currently working on expanding my 2D Pokemon game into something bigger. I will be uploading the idea in the next few weeks. Follow to stay tuned.
+* **2dPokemon:** https://github.com/JordonAndersen/2dPokemon
   
 
